@@ -1,0 +1,125 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Mar de Luz House  Oscar Gonzalez Moix
+
+## Skin
+
+### Button
+Button_44D73964_5EC7_DAD2_41B3_290DE6A37CEC.label = HOUSE INFO
+Button_44D73964_5EC7_DAD2_41B3_290DE6A37CEC_mobile.label = HOUSE INFO
+Button_44D74964_5EC7_DAD2_41CF_5E115E0F998B.label = PHOTOALBUM
+Button_44D74964_5EC7_DAD2_41CF_5E115E0F998B_mobile.label = PHOTOALBUM
+Button_44D75964_5EC7_DAD2_418A_CF7AEA38DD64_mobile.label = FLOORPLAN
+Button_44D76964_5EC7_DAD2_41C8_17C63CC913AC_mobile.label = LOCATION
+Button_44D77964_5EC7_DAD2_41CC_21FB05D628BB.label = CONCEPT
+Button_44D77964_5EC7_DAD2_41CC_21FB05D628BB_mobile.label = CONCEPT
+Button_44D7B964_5EC7_DAD2_41A8_CE6902ADC108.label = CONTACT
+Button_44D7B964_5EC7_DAD2_41A8_CE6902ADC108_mobile.label = CONTACT
+
+### Label
+Label_953C8A6A_8777_67E0_417A_31969E3D8486.text = Copyright © 2023 Metaworks, Metaworks Group, Metaworks Company limited and Metaworks Enterprise. All Rights Reserved.
+
+### Tooltip
+IconButton_4303E81C_5EC6_FA72_41C6_90D5CE76523A_mobile.toolTip = Fullscreen
+
+## Media
+
+### Title
+album_4E2F9BFA_5E46_DDB6_41A4_99E29085396C.label = Photo Album Other_01
+album_4E2F9BFA_5E46_DDB6_41A4_99E29085396C_0.label = Other_01
+album_4E2F9BFA_5E46_DDB6_41A4_99E29085396C_1.label = Other_02
+album_4E2F9BFA_5E46_DDB6_41A4_99E29085396C_10.label = Photo_09
+album_4E2F9BFA_5E46_DDB6_41A4_99E29085396C_11.label = Photo_10
+album_4E2F9BFA_5E46_DDB6_41A4_99E29085396C_2.label = Photo_01
+album_4E2F9BFA_5E46_DDB6_41A4_99E29085396C_3.label = Photo_02
+album_4E2F9BFA_5E46_DDB6_41A4_99E29085396C_4.label = Photo_03
+album_4E2F9BFA_5E46_DDB6_41A4_99E29085396C_5.label = Photo_04
+album_4E2F9BFA_5E46_DDB6_41A4_99E29085396C_6.label = Photo_05
+album_4E2F9BFA_5E46_DDB6_41A4_99E29085396C_7.label = Photo_06
+album_4E2F9BFA_5E46_DDB6_41A4_99E29085396C_8.label = Photo_07
+album_4E2F9BFA_5E46_DDB6_41A4_99E29085396C_9.label = Photo_08
+map_70281251_62BA_7BB6_41B6_9E6C4A6AFBF3.label = Mar de Luz House  Oscar Gonzalez Moix 2020_floor plan 2nd fl
+map_704BFC31_62BB_AFF6_41CE_80548767DEE8.label = Plan View
+panorama_55F586E3_5E3D_D7D6_41D6_BD4FEBEB7A86.label = Main Gate
+panorama_57CDDC4F_5E3D_DAEE_41D2_67CB77B21FA6.label = The Garage
+panorama_57D2132B_5E3D_AE56_41D5_8821B68FDF9C.label = Walkwway_02
+panorama_57D221D5_5E3D_ADFD_41D5_EAF2EA85CB4C.label = The Garden near Beach
+panorama_57D22A06_5E3D_BE5F_41CC_170A65702A68.label = Pool
+panorama_57D2BFC5_5E3D_D5DD_41C0_D55850AC6997.label = Walkwway_01
+panorama_57D2D687_5E3D_B65E_41D5_0C8DBC4B33EA.label = Meeting Room
+panorama_57D2D94A_5E3E_5AD7_41D0_D027585B3C20.label = View point
+panorama_57D2DD6D_5E3D_BAD2_41A3_34D2BB3A02B0.label = Living room 1st Fl.
+panorama_57D2F550_5E3D_AAF2_41D2_1ECF62F4FD72.label = Living room 2nd Fl.
+panorama_680CCFF7_63D7_7C6A_41D5_919AEDCB4442.label = room_02
+panorama_6DEFFD19_63DB_5DA6_4154_922DE57056EE.label = room_01 with light
+panorama_6E53784A_79F0_814D_41A7_BC7F8363A250.label = The Garage with light
+panorama_6ED3C080_63DB_44A6_41D6_6C1DCB9D9414.label = room_02 with light
+panorama_6F193C7C_63D7_7C5E_41D5_4179D92AD72C.label = room_01 
+panorama_7830F86E_5FCA_DAAE_41C7_A918164B204B.label = Main Gate with light
+panorama_7AEA3FC1_5FCB_F5D5_41AC_FAA46F26A89D.label = Living Room 1st Fl. with light
+panorama_7AEA9E35_5FCB_D6B2_41B7_41943E36DFEF.label = Walkway_01 with light
+panorama_7AEB82D0_5FCB_EFF3_41C8_7B908D61DABC.label = Walkway_02 with light
+panorama_7AEB942F_5FCB_EAAD_41CA_673A9EE747EF.label = The Garden near Beach with light
+panorama_7AEBCB67_5FCB_FEDD_41CC_F541DFB6ACFD.label = Pool with light
+panorama_7AEBCD09_5FCB_DA55_41CE_E2C5CC60D6D8.label = View point with light
+panorama_7AEBD8C3_5FCB_DBD5_41D0_CD252DB38971.label = Living room 2nd Fl. with light
+panorama_7AEBF717_5FCB_F67E_41BC_546E10717754.label = Meeting Room with light
+photo_408979C6_5ECE_BDDF_41D5_0F10491686EE.label = Photo_01
+video_76D53C0D_7944_AA94_41B4_6D25D68ADD17.label = Title Load
+
+## Popup
+
+### Body
+htmlText_43703751_5EDA_56F2_41D0_63C872CE41FD.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Within the site, the guest rooms are laid out as a separate wing that may or may not work together with the main house. But this was only possible because the pool and the barbecue act as bearings in the middle of the interior garden, and allow the interaction of all guests in this large green space which can always see the impressive horizon.</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">The project embodies a concrete and precise language, where materials such as concrete, bamboo and stone always reflect the program they enclose. This is where architecture finds its true calling, when the initial premise is achieved and the parts of the project evoke the feeling of always being on the seashore.</SPAN></DIV></BODY></HTML></div>
+htmlText_43B33354_5ECD_AEF3_41C8_641DC60CB7E1.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:0.8333333333333334vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.83vw;font-family:Arial, Helvetica, sans-serif;">The premise in the development of this project was to always keep the views of the bay and the horizon present in every area of the house. We needed to place the program so that the spaces would connect visually, the transparency should be the primary axis of the first floor.</SPAN></DIV><DIV STYLE="text-align:left;font-size:0.8333333333333334vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.83vw;font-family:Arial, Helvetica, sans-serif;">A very strong constraint to the development of the project was the relentless wind that hits directly from the bay. This did not allow us to use the front garden, therefore the importance of the interior garden to see the sea at all times through the first volume.</SPAN></DIV></BODY></HTML></div>
+htmlText_7C6810F3_5E7A_6BB5_41C1_060B443E6637.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">Within the site, the guest rooms are laid out as a separate wing that may or may not work together with the main house. But this was only possible because the pool and the barbecue act as bearings in the middle of the interior garden, and allow the interaction of all guests in this large green space which can always see the impressive horizon.</SPAN></DIV><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;">The project embodies a concrete and precise language, where materials such as concrete, bamboo and stone always reflect the program they enclose. This is where architecture finds its true calling, when the initial premise is achieved and the parts of the project evoke the feeling of always being on the seashore.</SPAN></DIV></BODY></HTML></div>
+htmlText_7C6960F3_5E7A_6BB5_41CA_18694FE2C72B.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:0.8333333333333334vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.83vw;font-family:Arial, Helvetica, sans-serif;">The premise in the development of this project was to always keep the views of the bay and the horizon present in every area of the house. We needed to place the program so that the spaces would connect visually, the transparency should be the primary axis of the first floor.</SPAN></DIV><DIV STYLE="text-align:left;font-size:0.8333333333333334vw;"><SPAN STYLE="display:inline-block; letter-spacing:0vw; white-space:pre-wrap;color:#000000;font-size:0.83vw;font-family:Arial, Helvetica, sans-serif;">A very strong constraint to the development of the project was the relentless wind that hits directly from the bay. This did not allow us to use the front garden, therefore the importance of the interior garden to see the sea at all times through the first volume.</SPAN></DIV></BODY></HTML></div>
+
+### Title
+window_743816FC_7A88_576E_4194_DDD57B2392CB.title = Mar de Luz House
+window_75D4E25F_7A8F_AEAA_41D2_26F22FBC0702.title = Concept
+window_7C6840F3_5E7A_6BB5_4182_37C47F0CA2E4.title = Mar de Luz House
+window_7C68E103_5E7A_6A56_41BB_7F7282A9421F.title = Concept
+
+## Hotspot
+
+### Tooltip
+HotspotMapOverlayArea_66A8E42C_5E4D_EB97_4189_164302526220.toolTip = living room 2nd fl.
+HotspotMapOverlayArea_67F039F0_5E4E_DC71_4183_85FC2D9AD8B8.toolTip = view point
+HotspotMapOverlayArea_6948DCC6_5E4A_5497_41D6_0BB0E8128826.toolTip = living room 1st fl.
+HotspotMapOverlayArea_6B3B96C6_5E7D_B4F1_41CC_45D0241C1D71.toolTip = pool
+HotspotMapOverlayArea_6BFC26BC_5E7D_F491_41AC_339FC8F4E613.toolTip = meeting room
+HotspotMapOverlayArea_6C63A267_5E7D_AFB0_41D5_3AEF8CB96ACE.toolTip = walkway_02
+HotspotMapOverlayArea_6CBC463E_5E7E_5793_41D5_5BCD1A856890.toolTip = walkway_01
+HotspotMapOverlayArea_6CD1E800_5E7E_5B6F_41B8_7DFFC9C11840.toolTip = the garage
+HotspotMapOverlayArea_6DEDD4A9_5E7A_74B2_41D5_2DD060EAECBC.toolTip = garden beach
+HotspotMapOverlayArea_6DFA4EDE_5E7E_F493_4181_51499C956FFB.toolTip = main gate
+HotspotPanoramaOverlayArea_4D11C2AA_5E46_AE57_41C5_3DD6A765BCE8.toolTip = See photo
+HotspotPanoramaOverlayArea_4D353841_5E7E_7AD5_41CB_4B478138BDAA.toolTip = See photo
+HotspotPanoramaOverlayArea_4F9EA488_5E4A_6A53_41C5_24099EBB0817.toolTip = See photo
+HotspotPanoramaOverlayArea_72D6EEA6_5E5E_565F_41C0_3E94F2D25E42.toolTip = Walk here
+HotspotPanoramaOverlayArea_73120A52_5E4B_DEF7_41D0_839FB700F267.toolTip = Walk here
+HotspotPanoramaOverlayArea_7335D920_5E5A_5A52_41CF_073A0F40DCA8.toolTip = Walk here
+HotspotPanoramaOverlayArea_7393AB3D_5E4F_DEB2_41BD_FD0A01A6A6B7.toolTip = Goto 2nd Floor
+HotspotPanoramaOverlayArea_73DDC00E_5E4A_6A6F_41A9_4D6A985C7130.toolTip = Walk out side
+HotspotPanoramaOverlayArea_73F4B57F_5E47_AAAE_41D7_B64563336155.toolTip = Walk inside
+
+### URL
+overlay_6A0F0FEC_7950_9F45_41B1_3856077D837D.url = //www.youtube.com/embed/mXbUlc-y8RY
+overlay_6AB47B11_7953_80DF_41D4_473C9BFC1950.url = //www.youtube.com/embed/mXbUlc-y8RY
+overlay_6AE2894F_7951_8343_41CD_6BE2D96A0587.url = //www.youtube.com/embed/4SZz-ZAxLeQ
+overlay_6AE68CA3_7950_81C3_41C0_742B6612384B.url = //www.youtube.com/embed/qvmW85Zbc0U?feature=share
+overlay_6DDFB6BC_7971_81C5_41CA_C4EED9D5F1EB.url = //www.youtube.com/embed/XqNEJUjScI8
+
+## Action
+
+### URL
+LinkBehaviour_4A11382A_5E46_DA57_41A9_53EBAF51EB28.source = https://en.wikipedia.org/wiki/Honda_CR-V
+LinkBehaviour_64CBC49C_7A39_F873_41DA_4F587358A437.source = https://en.wikipedia.org/wiki/Honda_CR-V
+LinkBehaviour_74446CF0_7A88_DB76_41D6_85F4FFD363EB.source = https://www.facebook.com/meta0625699712
+LinkBehaviour_7C636103_5E7A_6A56_41B3_5E30A0AFF553.source = https://www.facebook.com/meta0625699712
