@@ -3,6 +3,7 @@
 ## Tour
 
 ### Description
+tour.description = virsual reality by kasama
 
 ### Title
 tour.name = Mar de Luz House  Oscar Gonzalez Moix
